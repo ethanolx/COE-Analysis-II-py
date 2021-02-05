@@ -1,3 +1,12 @@
 Objectives
 1.  Find the factors which affect coe prices
 2.  See if there is any correlation between current car population and quuota of coes released
+
+Audience/Beneficiary
+
+Explain how bidding system works
+
+Uber cars ?
+Taxis ?
+Parallel imported ?
+Electric ?
